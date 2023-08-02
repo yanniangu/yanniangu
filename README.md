@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Yannian Gu 👋
 
 - 🔭 I’m currently working on NWPU
 - 🌱 I’m currently learning Machine Learning
