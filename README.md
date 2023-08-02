@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on NWPU
-
+- 🌱 I’m currently learning Machine Learning
+  
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=yanniangu)]()
 
 <!--
